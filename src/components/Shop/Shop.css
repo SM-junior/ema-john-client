@@ -25,3 +25,22 @@
     justify-content: space-between;
     align-items: center;
 }
+.pagination button{
+    padding-right: 4px;
+    border-radius: 3px;
+    padding: 6px 10px;
+}
+.pagination{
+    padding:20px 0;
+}
+/* .pagination :hover{
+    border: 1px solid White;
+    background-color: red;
+    color:white;
+} */
+
+.active{
+    background-color: red;
+    color:white;
+    border: 1px solid white;
+}
